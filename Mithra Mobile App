@@ -1,0 +1,11 @@
+namespace mithra mobile app 
+{
+    public class program
+    {
+        public ActionResult Index()
+        { 
+           Response.Write("Show My Page");
+         }
+
+    }
+}
